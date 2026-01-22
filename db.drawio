@@ -1,11 +1,35 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.4">
   <diagram name="Page-1" id="DX6TISesyZs18dR6InOB">
-    <mxGraphModel dx="623" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="581" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bGerEJDOV6rJB6aKcTBl-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="180" as="geometry" />
+        <mxCell id="hsPOGcLNHQj0TU4G972p-1" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="Entity" vertex="1">
+          <mxGeometry height="40" width="100" x="210" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hsPOGcLNHQj0TU4G972p-2" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="Daily Streak" vertex="1">
+          <mxGeometry height="40" width="100" x="80" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="hsPOGcLNHQj0TU4G972p-3" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="Points" vertex="1">
+          <mxGeometry height="40" width="100" x="210" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hsPOGcLNHQj0TU4G972p-4" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="Daily Summary" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="hsPOGcLNHQj0TU4G972p-5" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="Habit Streak" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="hsPOGcLNHQj0TU4G972p-6" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="Habits Log" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="hsPOGcLNHQj0TU4G972p-7" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="Habits" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="hsPOGcLNHQj0TU4G972p-8" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="User Info" vertex="1">
+          <mxGeometry height="40" width="120" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hsPOGcLNHQj0TU4G972p-9" parent="1" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" value="Habit Icons" vertex="1">
+          <mxGeometry height="40" width="100" x="260" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
